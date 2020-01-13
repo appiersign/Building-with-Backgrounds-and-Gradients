@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: montserrat;
+  font-family: Montserrat;
 }
 .container {
   margin-left: auto;
@@ -10,6 +10,10 @@
 
 .bg-black {
   background-color: black;
+}
+
+.text-white {
+    color: white;
 }
 
 #content {
@@ -30,6 +34,34 @@
   background-position: 0px 600px;
   /* background-repeat: no-repeat; */
   background-size: cover;
+}
+
+#hero-texts {
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#hero-texts h1 {
+    margin-bottom: 10px;
+    font-size: 3em;
+    font-weight: normal;
+}
+
+#hero-texts h4 {
+    margin-bottom: 15px;
+    font-weight: normal;
+    font-size: 1.2em;
+    line-height: 30px;
+}
+
+#menu {
+    width: 70%;
+    padding-top: 100px;
+}
+
+#menu ul {
+    height: 40px;
 }
 
 #products {
