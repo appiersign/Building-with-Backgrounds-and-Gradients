@@ -62,6 +62,7 @@
 
 #menu ul {
   height: 40px;
+  border-radius: 10px;
 }
 
 #products {
@@ -111,10 +112,27 @@ nav ul li {
   border-right: 1px ridge gray;
 }
 
+nav ul li a {
+    color: white;
+}
+
 .font-12 {
   font-size: 0.7em;
 }
 
 .flex {
   display: flex;
+}
+
+#nav-items {
+    background: linear-gradient(white,black 95%, white);
+    padding-top: 15px;
+}
+
+#search {
+    border-radius: 50px;
+}
+
+.black-text {
+    color: black;
 }
