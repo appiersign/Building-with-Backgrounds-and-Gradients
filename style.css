@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .container {
@@ -113,7 +113,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+  color: white;
 }
 
 .font-12 {
@@ -125,14 +125,14 @@ nav ul li a {
 }
 
 #nav-items {
-    background: linear-gradient(white,black 95%, white);
-    padding-top: 15px;
+  background: linear-gradient(white, black 95%, white);
+  padding-top: 15px;
 }
 
 #search {
-    border-radius: 50px;
+  border-radius: 50px;
 }
 
 .black-text {
-    color: black;
+  color: black;
 }
