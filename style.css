@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.text-white {
+  color: white;
+}
+
+#content {
+  width: 70%;
+  height: 900px;
+}
+
+#jumbotron {
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#hero {
+  height: inherit;
+  background-image: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");
+  background-position: 0 600px;
+  background-size: cover;
+}
+
+#hero-texts {
+  width: 50%;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#hero-texts h1 {
+  margin-bottom: 10px;
+  font-size: 3em;
+  font-weight: normal;
+}
+
+#hero-texts h4 {
+  margin-bottom: 15px;
+  font-weight: normal;
+  font-size: 1.2em;
+  line-height: 30px;
+}
+
+#menu {
+  width: 70%;
+  padding-top: 100px;
+}
+
+#menu ul {
+  height: 40px;
+  border-radius: 10px;
+}
+
+#products {
+  width: 100%;
+  display: flex;
+}
+
+footer div {
+  margin: 10px;
+}
+
+#products div {
+  width: 25%;
+  height: 200px;
+}
+
+#product-1 {
+  background-image: url("https://web.archive.org/web/20140301004349im_/http://images.apple.com/home/images/promo_iphone5s.jpg");
+}
+
+#product-2 {
+  background-image: url("https://web.archive.org/web/20140301004350im_/http://images.apple.com/home/images/promo_iphone5c.jpg");
+}
+
+#product-3 {
+  background-image: url("https://web.archive.org/web/20140301004351im_/http://images.apple.com/home/images/promo_30_years.jpg");
+}
+
+#product-4 {
+  background-image: url("https://web.archive.org/web/20140301004352im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg");
+}
+
+footer {
+  width: 90%;
+  height: 80px;
+  display: flex;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 10px;
+  padding-right: 10px;
+  border-right: 1px ridge gray;
+}
+
+nav ul li a {
+  color: white;
+}
+
+.font-12 {
+  font-size: 0.7em;
+}
+
+.flex {
+  display: flex;
+}
+
+#nav-items {
+  background: linear-gradient(white, black 95%, white);
+  padding-top: 15px;
+}
+
+#search {
+  border-radius: 50px;
+}
+
+.black-text {
+  color: black;
+}
