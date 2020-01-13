@@ -2,7 +2,7 @@
 
 This is a clone project of the old Apple Website.
  
-[![Screen-Shot-2020-01-07-at-16-13-01.png](https://i.postimg.cc/bw3W9Fnx/Screen-Shot-2020-01-07-at-16-13-01.png)](https://postimg.cc/Hr86pzBn)
+[Apple Old Website Clone](https://postimg.cc/PpZwN526)
 
 #### Built With
 
