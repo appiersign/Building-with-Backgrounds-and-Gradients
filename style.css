@@ -34,6 +34,14 @@ header {
   text-decoration: none;
 }
 
+nav {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 auto;
+  width: 980px;
+  height: 114px;
+}
+
 #content {
   width: 70%;
   height: 900px;
