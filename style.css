@@ -42,6 +42,22 @@ nav {
   height: 114px;
 }
 
+.nav-item {
+  cursor: pointer;
+  color: white;
+  background: linear-gradient(#8b8b8b, #656565 50%, #787878 100%);
+  border: 1px solid #7d7d7d;
+  height: 36px;
+  width: 106px;
+  border-right: 1px solid black;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
+}
+
+.nav-item:hover {
+  background: linear-gradient(#555, #404040 50%, #545454 100%);
+}
+
 #content {
   width: 70%;
   height: 900px;
