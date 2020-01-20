@@ -17,6 +17,17 @@
   color: white;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  height: 534px;
+  min-width: 1440px;
+  background-image: url("../images/your_verse_hero.jpg");
+  background-size: 1440px 1315px;
+  background-position-y: 534px;
+  text-align: center;
+}
+
 #content {
   width: 70%;
   height: 900px;
