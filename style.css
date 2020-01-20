@@ -28,6 +28,12 @@ header {
   text-align: center;
 }
 
+.header-text a {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+
 #content {
   width: 70%;
   height: 900px;
